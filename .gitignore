@@ -346,3 +346,7 @@ MigrationBackup/
 EngineShaders/
 NoviceResources/
 imgui.ini
+
+# Noviceを使用しないので共有対象から除外
+/Novice/
+/Adapter/
